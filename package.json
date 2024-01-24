@@ -1,0 +1,11 @@
+{
+  "name": "javascript-interview-practice",
+  "version": "1.0.0",
+  "description": "This repository contains javascript interview questions and their solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
