@@ -1,3 +1,5 @@
+// Company Name - Robinhood
+
 class Promise {
   constructor(handler) {
     this.status = "pending";
